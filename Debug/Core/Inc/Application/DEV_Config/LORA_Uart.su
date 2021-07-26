@@ -1,0 +1,7 @@
+LORA_Uart.c:48:7:LORA_Uart_ReceiveByte	16	static
+LORA_Uart.c:55:6:LORA_Uart_SendByte	24	static
+LORA_Uart.c:61:6:LORA_Uart_SendString	24	static
+LORA_Uart.c:70:6:LORA_Uart_ReceiveString	16	static
+LORA_Uart.c:76:6:LORA_Set_GPIOMode	24	static
+LORA_Uart.c:84:6:LORA_Set_Baudrate	16	static
+LORA_Uart.c:104:13:LORA_UART_Error_Handler	4	static

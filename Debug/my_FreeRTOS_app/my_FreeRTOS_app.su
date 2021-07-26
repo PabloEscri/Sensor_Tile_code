@@ -1,0 +1,17 @@
+my_FreeRTOS_app.c:139:6:Init_my_tasks	8	static
+my_FreeRTOS_app.c:185:13:maquina_estados	16	static
+my_FreeRTOS_app.c:247:13:dormir_uc	88	static
+my_FreeRTOS_app.c:304:6:HAL_GPIO_EXTI_Callback	16	static
+my_FreeRTOS_app.c:314:13:wake_up_uc	24	static
+my_FreeRTOS_app.c:338:13:leer_sensores	96	static
+my_FreeRTOS_app.c:367:13:gestionar_comandos_BLE	16	static
+my_FreeRTOS_app.c:393:13:enviar_BLE	568	static
+my_FreeRTOS_app.c:424:16:extraer_fichero	792	static
+my_FreeRTOS_app.c:465:13:Escaneo	16	static
+my_FreeRTOS_app.c:472:13:Iniciar_sensores	8	static
+my_FreeRTOS_app.c:493:13:procesar_datos	464	static
+my_FreeRTOS_app.c:552:6:iniciar_pin_SWDIO	32	static
+my_FreeRTOS_app.c:565:6:encender_zona_3v3	8	static
+my_FreeRTOS_app.c:569:6:apagar_zona_3v3	8	static
+my_FreeRTOS_app.c:574:13:PA2_Init	32	static
+my_FreeRTOS_app.c:589:6:crear_configuracion_archivos_inicial	168	static

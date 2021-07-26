@@ -1,0 +1,3 @@
+Parson_Comandos_App.c:27:5:parsear_comandos_json	48	static
+Parson_Comandos_App.c:89:5:check_JSON	32	static
+Parson_Comandos_App.c:174:5:process_mesage	40	static

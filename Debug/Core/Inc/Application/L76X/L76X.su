@@ -1,0 +1,10 @@
+L76X.c:20:15:transformLat	48	static
+L76X.c:33:15:transformLon	48	static
+L76X.c:46:20:bd_encrypt	120	static
+L76X.c:61:20:transform	144	static
+L76X.c:84:6:L76X_Send_Command	24	static
+L76X.c:104:6:L76X_Exit_BackupMode	4	static
+L76X.c:119:7:L76X_Gat_GNRMC	48	static
+L76X.c:214:7:L76X_Gat_GNGGA	24	static
+L76X.c:225:13:L76X_Baidu_Coordinates	72	static
+L76X.c:239:13:L76X_Google_Coordinates	72	static

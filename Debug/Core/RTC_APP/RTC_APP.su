@@ -1,0 +1,7 @@
+RTC_APP.c:12:6:RTC_Init	32	static
+RTC_APP.c:75:5:RTC_configurar_dia_desde_cadena	64	static
+RTC_APP.c:137:5:RTC_obtener_hora_str_formato_SD	40	static
+RTC_APP.c:167:5:RTC_obtener_dia_str	40	static
+RTC_APP.c:198:5:RTC_obtener_hora_str	40	static
+RTC_APP.c:225:5:RTC_obtener_fecha_str	40	static
+RTC_APP.c:251:5:RTC_obtener_momento	40	static

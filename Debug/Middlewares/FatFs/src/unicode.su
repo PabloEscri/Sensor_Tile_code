@@ -1,0 +1,2 @@
+unicode.c:17:7:ff_convert	24	static
+unicode.c:45:7:ff_wtoupper	32	static

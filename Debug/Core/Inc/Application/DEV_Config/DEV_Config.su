@@ -1,0 +1,7 @@
+DEV_Config.c:42:7:DEV_Uart_ReceiveByte	16	static
+DEV_Config.c:49:6:DEV_Uart_SendByte	24	static
+DEV_Config.c:55:6:DEV_Uart_SendString	24	static
+DEV_Config.c:64:6:DEV_Uart_ReceiveString	16	static
+DEV_Config.c:70:6:DEV_Set_GPIOMode	24	static
+DEV_Config.c:78:6:DEV_Set_Baudrate	24	static
+DEV_Config.c:108:13:GPS_UART_Error_Handler	4	static
